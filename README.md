@@ -8,10 +8,10 @@ I worked for Sopra Steria, Infotel and now for Talend.
 Here, you are in my personal GitHub account, but you will not find any project 🫢.
 
 ## 💍 One organization to rule them all
-You can retrieve all my projects in the Github organisation [*grasdouble*](https://github.com/grasdouble).
+You can retrieve all my projects in the Github organization [*grasdouble*](https://github.com/grasdouble).
 
 I created it to be able to: 
-- test Github organisation,
+- test Github organization,
 - not have to switch between my pro and personal github account to commit something
 - facilitate work with others on projects.
 
