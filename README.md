@@ -20,3 +20,9 @@ Concerning my professional activities, you can visit my professional Github acco
 
 ## ☎️ How to contact me
 You can contact me via [LinkedIn](https://www.linkedin.com/in/sebastienlemouillour/).
+
+## 📊 Statistics
+![](https://raw.githubusercontent.com/noofreuuuh/noofreuuuh2/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/noofreuuuh/noofreuuuh2/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/noofreuuuh/noofreuuuh2/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/noofreuuuh/noofreuuuh2/master/generated/languages.svg#gh-light-mode-only)
