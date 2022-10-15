@@ -22,7 +22,7 @@ Concerning my professional activities, you can visit my professional Github acco
 You can contact me via [LinkedIn](https://www.linkedin.com/in/sebastienlemouillour/).
 
 ## 📊 Statistics
-
+![](https://komarev.com/ghpvc/?username=noofreuuuh)
 <p align=center>
   <div align=center>
     <img align="left" width=390 src="https://raw.githubusercontent.com/noofreuuuh/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
