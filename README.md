@@ -1,5 +1,5 @@
 ## 👋 Hi there
-I'm *Sebastien Le Mouillour* (aka. [Noofreuuuh].
+I'm *Sebastien Le Mouillour* (aka. Noofreuuuh).
 
 I have been a developer since 2007, firstly on the backend side (Java) and since 2015 on the frontend side (React).
 
