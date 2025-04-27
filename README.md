@@ -1,49 +1,36 @@
-## 👋 Hi there
-I'm *Sebastien Le Mouillour* (aka. Noofreuuuh).
+## 👋 Hi there, My name is Sébastien LE MOUILLOUR
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastienlemouillour) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dev.n2ofr)
 
-I have been a developer since 2007, firstly on the backend side (Java) and since 2015 on the frontend side (React).
+## 💫 About Me:
+I'm based in France 🇫🇷, currently living in the Central European Time Zone 🕰️. I'm passionate about frontend development, especially with JavaScript, TypeScript, and React 💻. I love building clean, efficient, and well-tested software ✨.
+When I'm not coding, I enjoy spending time with my family ❤️, swimming 🏊, playing squash 🎾, reading manga 📚, or playing video games 🎮.
 
-I worked for Sopra Steria, Infotel and now for Talend.
+My work is divided between two GitHub accounts: [noofreuuuh](https://github.com/noofreuuuh) and [smouillour](https://github.com/smouillour)
 
-Here, you are in my personal GitHub account, but you will not find any project 🫢.
+## 🔭 I'm currently working on:
 
-## 💍 One organization to rule them all
-You can retrieve all my projects in the Github organization [*grasdouble*](https://github.com/grasdouble).
+<a href='https://github.com/grasdouble/Lufa'><img src="https://github.com/grasdouble/Lufa/blob/main/images/Lufa_Logo_small.png" width="100" height="100" /></a>
 
-I created it to be able to: 
-- test Github organization,
-- not have to switch between my pro and personal github account to commit something
-- facilitate work with others on projects.
 
-## 🧑🏻‍💻 What about professional activities
-Concerning my professional activities, you can visit my professional Github account [smouillour](https://github.com/smouillour)
+## 🔎 Where are my repositories:
+All my repositories are in the GitHub organisation [Grasdouble](https://github.com/grasdouble)<br>
 
-## ☎️ How to contact me
-You can contact me via [LinkedIn](https://www.linkedin.com/in/sebastienlemouillour/).
 
-## 📊 Statistics
-![](https://komarev.com/ghpvc/?username=noofreuuuh)
-<p align=center>
-  <div align=center>
-    <img align="left" width=390 src="https://raw.githubusercontent.com/noofreuuuh/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img align="left" width=390 src="https://raw.githubusercontent.com/noofreuuuh/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-    <img align="right" width=390 src="https://raw.githubusercontent.com/noofreuuuh/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-    <img align="right" width=390 src="https://raw.githubusercontent.com/noofreuuuh/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-</p>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=noofreuuuh&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=noofreuuuh&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=noofreuuuh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+## 💻 Tech Stack:
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
 
-<hr>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=noofreuuuh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=noofreuuuh&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=noofreuuuh&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=noofreuuuh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=noofreuuuh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=noofreuuuh&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
