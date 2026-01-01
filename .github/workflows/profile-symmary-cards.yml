@@ -17,7 +17,7 @@ jobs:
       - name: Get Paris UTC Offset
         id: get-offset
         run: |
-          offset=$(date +%z -d "TZ=Europe/Paris now" | sed 's/\([+-][0-9][0-9]\)\([0-9][0-9]\)/\1.\2/' | awk '{print $1/100}')
+          offset=$(TZ=Europe/Paris date +%z | awk '{printf "%+d", $1/100}')
           echo "utc_offset=$offset" >> $GITHUB_OUTPUT
 
       - name: Display UTC Offset
