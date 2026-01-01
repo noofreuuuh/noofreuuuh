@@ -4,14 +4,24 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@dev.n2ofr" alt="Medium" />
-  <img src="https://komarev.com/ghpvc/?username=noofreuuuh&label=Profile+views&color=F7971E&style=flat-square" alt="Github profile views" />
 </p>
 
-## 💫 About Me:
-I'm based in France 🇫🇷, currently living in the Central European Time Zone 🕰️. I'm passionate about frontend development, especially with JavaScript, TypeScript, and React 💻. I love building clean, efficient, and well-tested software ✨.
-When I'm not coding, I enjoy spending time with my family ❤️, swimming 🏊, playing squash 🎾, reading manga 📚, or playing video games 🎮.
 
-My work is divided between two GitHub accounts: [noofreuuuh](https://github.com/noofreuuuh) and [smouillour](https://github.com/smouillour) (which is for professional use)
+## 💫 About Me:
+<table>
+  <table>
+    <tr>
+      <td>
+        <b>🇫🇷 Based in France (CET)</b><br/><br/>
+        I am a passionate frontend developer with a strong focus on JavaScript, TypeScript, and React. I take pride in building clean, efficient, and well-tested software that delivers real value.<br/><br/>
+        Outside of coding, I enjoy spending quality time with my family, swimming, playing squash, reading manga, and immersing myself in video games. These activities help me stay balanced and inspired.<br/><br/>
+        My work is split between two GitHub accounts: <a href="https://github.com/noofreuuuh">noofreuuuh</a> for personal projects and <a href="https://github.com/smouillour">smouillour</a> for professional contributions.
+      </td>
+      <td >
+        <img src="https://raw.githubusercontent.com/noofreuuuh/noofreuuuh/github-profile-summary-image/diorama.png" alt="Diorama" />
+      </td>
+    </tr>
+  </table>
 
 ## 🔭 I'm currently working on:
 <p align="center">
@@ -50,7 +60,7 @@ All my repositories are in the GitHub organisation [Grasdouble](https://github.c
 </p>
 
 
-## 📊 noofreuuuh account stat
+## 📊 noofreuuuh account stat   <img src="https://komarev.com/ghpvc/?username=noofreuuuh&label=Profile+views&color=F7971E&style=flat-square" alt="Github profile views" />
 
 <div align="center">
 
@@ -73,7 +83,7 @@ All my repositories are in the GitHub organisation [Grasdouble](https://github.c
 </div>
 
 
-## 📊 smouillour account stats
+## 📊 smouillour account stats   <img src="https://komarev.com/ghpvc/?username=smouillour&label=Profile+views&color=F7971E&style=flat-square" alt="Github profile views" />
 
 <div align="center">
 
