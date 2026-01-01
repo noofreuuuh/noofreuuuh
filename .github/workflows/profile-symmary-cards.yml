@@ -9,11 +9,25 @@ on:
   workflow_dispatch:
 
 jobs:
+  get-paris-utc-offset:
+    runs-on: ubuntu-latest
+    outputs:
+      utc_offset: ${{ steps.get-offset.outputs.utc_offset }}
+    steps:
+      - name: Get Paris UTC Offset
+        id: get-offset
+        run: |
+          offset=$(date +%z -d "TZ=Europe/Paris now" | sed 's/\([+-][0-9][0-9]\)\([0-9][0-9]\)/\1.\2/' | awk '{print $1/100}')
+          echo "utc_offset=$offset" >> $GITHUB_OUTPUT
+
+      - name: Display UTC Offset
+        run: echo "Paris UTC Offset is ${{ steps.get-offset.outputs.utc_offset }} hours"
+
   noofreuuuh-github-cards:
     runs-on: ubuntu-latest
+    needs: get-paris-utc-offset
     permissions:
       contents: write
-      
     steps:
       - uses: actions/checkout@v6
         with:
@@ -25,14 +39,14 @@ jobs:
         with:
           USERNAME: noofreuuuh
           BRANCH_NAME: github-profile-summary-cards-noofreuuuh
-          UTC_OFFSET: "+1"
+          UTC_OFFSET: ${{ needs.get-paris-utc-offset.outputs.utc_offset }}
           AUTO_PUSH: "true"
 
   smouillour-github-cards:
     runs-on: ubuntu-latest
+    needs: get-paris-utc-offset
     permissions:
       contents: write
-      
     steps:
       - uses: actions/checkout@v6
         with:
@@ -44,5 +58,5 @@ jobs:
         with:
           USERNAME: smouillour
           BRANCH_NAME: github-profile-summary-cards-smouillour
-          UTC_OFFSET: "+1"
+          UTC_OFFSET: ${{ needs.get-paris-utc-offset.outputs.utc_offset }}
           AUTO_PUSH: "true"
