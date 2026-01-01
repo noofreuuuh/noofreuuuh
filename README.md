@@ -25,18 +25,13 @@ All my repositories are in the GitHub organisation [Grasdouble](https://github.c
 
 | Noofreuuuh    | Smouillour    |
 | ------------- | ------------- |
-| ![](https://komarev.com/ghpvc/?username=noofreuuuh&label=Profile+views&color=F7971E&style=flat-square)| ![](https://komarev.com/ghpvc/?username=smouillour&label=Profile+views&color=F7971E&style=flat-square) |
+| ![](https://komarev.com/ghpvc/?username=noofreuuuh&label=Profile+views&color=F7971E&style=flat-square) | ![](https://komarev.com/ghpvc/?username=smouillour&label=Profile+views&color=F7971E&style=flat-square) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=noofreuuuh&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smouillour&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=noofreuuuh&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smouillour&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=noofreuuuh&theme=transparent) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=smouillour&theme=transparent) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=noofreuuuh&theme=transparent&utcOffset=1) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smouillour&theme=transparent&utcOffset=1)
 | ![](https://github-readme-stats.vercel.app/api?username=noofreuuuh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  | ![](https://github-readme-stats.vercel.app/api?username=smouillour&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  |
 | ![](https://nirzak-streak-stats.vercel.app/?user=noofreuuuh&theme=radical&hide_border=false)                                                     | ![](https://nirzak-streak-stats.vercel.app/?user=smouillour&theme=radical&hide_border=false)  |
-
-## 🏆 GitHub Trophies
-| Noofreuuuh    |
-| ------------- |
-| ![](https://github-profile-trophy.vercel.app/?username=noofreuuuh&theme=radical&no-frame=false&no-bg=true&margin-w=4) |
-
-| Smouillour    |
-| ------------- |
-| ![](https://github-profile-trophy.vercel.app/?username=smouillour&theme=radical&no-frame=false&no-bg=true&margin-w=4) |
 
 
 ## 🔝 Top Contributed Repo
