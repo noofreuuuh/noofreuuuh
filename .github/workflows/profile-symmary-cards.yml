@@ -33,7 +33,7 @@ jobs:
         with:
           ref: github-profile-summary-cards-noofreuuuh
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -52,7 +52,7 @@ jobs:
         with:
           ref: github-profile-summary-cards-smouillour
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: vn7n24fzkq/github-profile-summary-cards@v0.7.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
