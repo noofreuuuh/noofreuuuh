@@ -11,12 +11,13 @@ on:
 jobs:
   noofreuuuh-github-cards:
     runs-on: ubuntu-latest
-    name: generate-github-cards
     permissions:
       contents: write
       
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: github-profile-summary-cards-noofreuuuh
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -29,12 +30,13 @@ jobs:
 
   smouillour-github-cards:
     runs-on: ubuntu-latest
-    name: generate-github-cards
     permissions:
       contents: write
       
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: github-profile-summary-cards-smouillour
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
